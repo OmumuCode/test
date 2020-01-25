@@ -1,3 +1,1 @@
-function initial(){
-	apikey = "SGJNTLWRGXL50JD1";
-}
+apikey = "SGJNTLWRGXL50JD1";
