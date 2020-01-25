@@ -1,1 +1,0 @@
-apikey = "SGJNTLWRGXL50JD1";
